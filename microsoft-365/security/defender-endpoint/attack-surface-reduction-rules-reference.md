@@ -74,7 +74,7 @@ For the easiest method to enable the standard protection rules, see: [Simplified
 
 ## ASR rules supported operating systems
 
-The following table lists the supported operating systems for rules that are currently released to general availability. The rules are listed alphabetical order in this table.
+The following table lists the supported operating systems for rules that are currently released to general availability. The rules are listed in alphabetical order in this table.
 
 > [!NOTE]
 >
